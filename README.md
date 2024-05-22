@@ -1,6 +1,5 @@
-# wedding-Dewi-Rio
+# Wedding-Dewi-Rio
 Web
-
 ## Template website undangan pernikahan sederhana
 
 ![Thumbnail](/assets/images/banner.png)
